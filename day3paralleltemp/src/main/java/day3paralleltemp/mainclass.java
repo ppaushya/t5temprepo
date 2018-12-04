@@ -6,12 +6,17 @@ public class mainclass {
 		// TODO Auto-generated method stub
      
 		
-		int i;
+		int i,j;
 		
 		
 		for(i=1;i<10;i++)
 		{
 			System.out.println(i);
+		}
+		
+		for(j=2;j<20;j++)
+		{
+			System.out.println(j);
 		}
 		
 	}
