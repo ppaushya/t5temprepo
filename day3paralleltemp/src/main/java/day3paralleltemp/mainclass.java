@@ -14,8 +14,7 @@ public class mainclass {
 			System.out.println(i);
 		}
 		
-		
-		System.out.println("nikhil");
+	  System.out.println("nikhil");
 	}
 
 }
